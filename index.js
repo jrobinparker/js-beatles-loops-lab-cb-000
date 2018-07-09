@@ -5,3 +5,8 @@ function theBeatlesPlay(musicians, instruments) {
   }
   return beatlesArray
 }
+
+function johnLennonFacts(facts) {
+  var lennonArray = []
+  while()
+}
